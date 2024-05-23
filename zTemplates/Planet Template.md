@@ -1,0 +1,6 @@
+---
+tags:
+  - planet
+---
+# Planet Name
+
